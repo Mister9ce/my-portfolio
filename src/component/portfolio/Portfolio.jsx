@@ -2,6 +2,7 @@ import React from 'react';
 import './portfolio.css';
 import IMG1 from '../../assets/port1.jpg'
 import IMG2 from '../../assets/port2.png'
+import IMG3 from  '../../assets/port3.png'
 
 
 
@@ -18,6 +19,14 @@ image: IMG2,
 title: 'Digital Marketing Agency Website UI',
 github: 'https://github.com',
 demo: 'https://dribbble.com/shots/20266273-Digital-Marketing-Agency-Website-UI'
+},
+
+{
+id:'id3',
+image: IMG3,
+title: 'Vaultily: Budget Planner and Savings App UI',
+github: 'https://github.com',
+demo: 'https://dribbble.com/shots/20312462-Vaultily-Budget-Planner-and-Savings-App-UI'
 },
 
 ]
