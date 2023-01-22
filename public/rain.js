@@ -358,7 +358,3 @@ var Ticker = (function(){
 
 	return PUBLIC_API;
 }());
-
-
-
-// ==========Disable Effect When Scrolling Away==========
