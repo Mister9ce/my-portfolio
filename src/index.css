@@ -55,6 +55,10 @@ body{
 
 }
 
+.portfolio__container{
+    margin-bottom: 5rem;
+}
+
 h1,
 h2,
 h3,
